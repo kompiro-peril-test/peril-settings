@@ -1,0 +1,12 @@
+{
+  "name": "kompiro-peril-settings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kompiro-peril-test/peril-settings.git",
+  "author": "Hiroki Kondo <kompiro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "danger": "^4.0.1",
+    "typescript": "^2.3.2"
+  }
+}
