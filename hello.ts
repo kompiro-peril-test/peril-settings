@@ -1,5 +1,5 @@
-import {message} from "danger"
+import { markdown } from "danger"
 
 export default async () => {
-  message("Hello from Peril!")
+  markdown("Hello from Peril!")
 }
