@@ -5,7 +5,7 @@
   "rules": {
     "check_suite": "kompiro-peril-test/peril-settings@hello.ts",
     "pull_request": "kompiro-peril-test/peril-settings@hello.ts",
-    "pull_request.closed": "debug.ts",
+    "pull_request.closed": "logger.ts",
     "issues": "kompiro-peril-test/peril-settings@hello.ts"
   }
 }
