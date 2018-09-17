@@ -3,6 +3,7 @@
     "onlyForOrgMembers": false
   },
   "rules": {
+    "check_suite": "kompiro-peril-test/peril-settings@hello.ts",
     "pull_request": "kompiro-peril-test/peril-settings@hello.ts",
     "issue": "kompiro-peril-test/peril-settings@logger.ts"
   }
