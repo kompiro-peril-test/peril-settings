@@ -4,6 +4,6 @@
   },
   "rules": {
     "pull_request": "kompiro-peril-test/peril-settings@hello.ts",
-    "issue": "kompiro-peril-test/peril-settings@hello.ts"
+    "issue": "kompiro-peril-test/peril-settings@logger.ts"
   }
 }
