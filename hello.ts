@@ -1,3 +1,5 @@
 import {message} from "danger"
 
-message("Hello from Peril!")
+export default async () => {
+  message("Hello from Peril!")
+}
